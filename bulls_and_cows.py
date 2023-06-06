@@ -146,7 +146,7 @@ while new_game:
     introduction()
     # vyber nahodneho cisla
     number_PC = create_number()
-    print(number_PC)  # pro kontrolu vypsani hledaneho cisla
+    # print(number_PC)  # pro kontrolu vypsani hledaneho cisla
     # hra trva, dokud hrac neuhodne spravne vsechny cisla
     while True:
         # hrac zadava cislo, dokud nebude ve spravnem formatu
